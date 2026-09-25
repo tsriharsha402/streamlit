@@ -1,3 +1,4 @@
-import joblib
-import numpy as np
-import sklearn
+streamlit==1.51.0
+joblib==1.5.2
+numpy==2.3.5
+scikit-learn==1.7.2
